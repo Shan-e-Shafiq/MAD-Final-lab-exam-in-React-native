@@ -15,6 +15,5 @@ export default function Category(props) {
         <Native.Text className='text-[#ffffff] font-medium text-base ml-2 mr-2' >{props.name}</Native.Text>
       </Native.View>
     </Native.Pressable>
-
   )
 }
