@@ -110,7 +110,7 @@ export default function ItemsListingScreen() {
                      contentContainerStyle={{
                         flexDirection: 'row',
                         flexWrap: 'wrap',
-                        gap: 20,
+                        gap: 18,
                         paddingHorizontal: 16,
                         paddingBottom: 50,
                         backgroundColor: 'white',
